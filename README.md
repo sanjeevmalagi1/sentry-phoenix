@@ -49,7 +49,4 @@ end
 
 P.S. This will log all the failed requests along with the request body and other details to Sentry. Make sure use Data Scrubber for any sensitive information.
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/sentry_phoenix>.
 
