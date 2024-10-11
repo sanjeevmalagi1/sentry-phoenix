@@ -41,7 +41,7 @@ pipeline :log_request_sentry do
 end
 
 scope "/" do
-  pipe_through [:sentry_phoenix]
+  pipe_through [:log_request_sentry]
   #....
   #....
 end
